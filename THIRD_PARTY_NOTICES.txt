@@ -1,0 +1,19 @@
+HG Spatial Data 1.0.0-rc.1
+
+Third-party assets are unmodified.
+Their licenses apply separately from the HG MIT license.
+
+cytoscape 3.34.3
+https://registry.npmjs.org/cytoscape/3.34.3
+https://registry.npmjs.org/cytoscape/-/cytoscape-3.34.3.tgz
+Retrieved: 2026-10-27T10:54:59+00:00
+
+Retained license/notice: licenses/cytoscape/LICENSE
+Retained license/notice: licenses/cytoscape/license-update.mjs
+babylonjs 9.27.1
+https://registry.npmjs.org/babylonjs/9.27.1
+https://registry.npmjs.org/babylonjs/-/babylonjs-9.27.1.tgz
+Retrieved: 2026-10-27T10:55:01+00:00
+
+Retained license/notice: licenses/babylonjs/NOTICE.md
+Retained license/notice: licenses/babylonjs/license.md

@@ -1,0 +1,84 @@
+{
+  "assembly_inputs_sha256": "3e11bef34ffb5f7e114e7a87affd105c4081a14aa4e6321eea17290dfaa0bec1",
+  "assembly_recipe_sha256": "6e6bf7680544a68741c88cbe8bf1d5031e98ddbbf62868c9b354b6efa23d304f",
+  "naming": {
+    "checked_at_utc": "2026-10-27T10:54:59+00:00",
+    "http_status": 404,
+    "identifier": "hg-spatial-data",
+    "response_sha256": "c8d3eae160a892e32837db3dcae515e843e5383fef52b8141940c8bcf8b6d59f",
+    "scope": "anonymous availability only; not ownership/reservation/publication clearance",
+    "status": "AVAILABLE",
+    "url": "https://registry.npmjs.org/hg-spatial-data"
+  },
+  "publication": "not authorized",
+  "source_commit": "aa527c549847ad866ff08a01c4603805362559db",
+  "source_sha256": "8ac81c337b566e37217bb264f0494b2f6c9b35444b6b4bb2ee127ddcad3f0bd2",
+  "source_snapshot": "source/",
+  "vendors": {
+    "babylonjs": {
+      "files": [
+        {
+          "bytes": 46,
+          "input_path": "babylonjs/NOTICE.md",
+          "output_path": "licenses/babylonjs/NOTICE.md",
+          "sha256": "225463efd81558f120a6e0cdd7f4c1007ed486006d1228c4849fee0c49715823"
+        },
+        {
+          "bytes": 8562017,
+          "input_path": "babylonjs/babylon.js",
+          "output_path": "vendor/babylon-9.27.1.js",
+          "sha256": "43c3c68af157ef26b505dc21e1041f6a2fae934259c25d8d4f936330594ef825"
+        },
+        {
+          "bytes": 9226,
+          "input_path": "babylonjs/license.md",
+          "output_path": "licenses/babylonjs/license.md",
+          "sha256": "9362ea9ea17cb221a20cbbd63f404710834cc273d2a9a7b60314fd68ab702cd6"
+        }
+      ],
+      "metadata_sha256": "0c963c2d0cf201837f634943eb245aa1ebf300f4c28af72d1304e45e3b0fe6db",
+      "metadata_url": "https://registry.npmjs.org/babylonjs/9.27.1",
+      "package_license": "Apache-2.0",
+      "registry_integrity": "sha512-OMkeegejudhCw7fTco+m7h2iu3Lp8I1jlq4vAjOIe46sgJtR1zIbuOrhHd6lUTYDDPpxpSswiCZYev2yWFvynA==",
+      "registry_integrity_verified": true,
+      "retrieved_at_utc": "2026-10-27T10:55:01+00:00",
+      "runtime_dependencies": {},
+      "tarball_sha256": "46190af88d0d821b2dadc3e8aec37d4c8da7b2d839427c1d4e89857f2e6a9d22",
+      "tarball_url": "https://registry.npmjs.org/babylonjs/-/babylonjs-9.27.1.tgz",
+      "version": "9.27.1"
+    },
+    "cytoscape": {
+      "files": [
+        {
+          "bytes": 1082,
+          "input_path": "cytoscape/LICENSE",
+          "output_path": "licenses/cytoscape/LICENSE",
+          "sha256": "eb319c6e6f233607f71e8e2f450391751883cfc0eeb3ca7ef574c13d1d9c2203"
+        },
+        {
+          "bytes": 435503,
+          "input_path": "cytoscape/dist/cytoscape.min.js",
+          "output_path": "vendor/cytoscape-3.34.3.min.js",
+          "sha256": "5f3b5b529546d5af1fc5628590af033b74511a5b6f789f5f4682845863228b91"
+        },
+        {
+          "bytes": 1416,
+          "input_path": "cytoscape/license-update.mjs",
+          "output_path": "licenses/cytoscape/license-update.mjs",
+          "sha256": "4a5a644717fc90d678e8fbbc537a08452d0566726710eef47b196abd6363e635"
+        }
+      ],
+      "metadata_sha256": "b698867c6bb33637d20a6ecd056117369bc77d9090e3b6b68b4716477f1b47ed",
+      "metadata_url": "https://registry.npmjs.org/cytoscape/3.34.3",
+      "package_license": "MIT",
+      "registry_integrity": "sha512-yfYGhRcGAntq6YBD583j4n0Eg3jIxvWmZtz/5uz9UYkeIStSlMxuUja+ec5j3iBD8nv1rwaOAYMW09tBdkSeaQ==",
+      "registry_integrity_verified": true,
+      "retrieved_at_utc": "2026-10-27T10:54:59+00:00",
+      "runtime_dependencies": {},
+      "tarball_sha256": "5d9e479216ed58a5f1ac639e746fd7d9770c4393f8c355dd133abc90bcc9ff3f",
+      "tarball_url": "https://registry.npmjs.org/cytoscape/-/cytoscape-3.34.3.tgz",
+      "version": "3.34.3"
+    }
+  },
+  "version": "1.0.0-rc.1"
+}
