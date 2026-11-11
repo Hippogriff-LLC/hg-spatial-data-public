@@ -1,7 +1,8 @@
 # HG Spatial Data 1.0.0-rc.1 API reference
 
-This describes the implemented HGSpatial contract. See README.md for provisioning,
-input/accessibility guidance and the pending RC verification limits.
+This describes the implemented HGSpatial contract for the published `v1.0.0-rc.1`
+GitHub release. See [README.md](README.md) for downloads, browser setup and integration
+limits. Documentation corrections on `main` do not change the tagged release assets.
 
 `HGSpatial.create(container, data, options?)` returns a synchronous controller.
 The container must be a connected empty HTML element with no active viewer.
